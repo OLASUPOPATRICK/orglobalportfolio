@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="flex flex-row w-full">
+      <body className="flex flex-row w-full h-full">
         <div className="">
           <Sidebar />
         </div>
